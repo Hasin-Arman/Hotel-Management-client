@@ -1,0 +1,7 @@
+.navStyle{
+    background-color:rgb(33, 33, 75);
+    position:relative;
+}
+.navStyle a{
+    color:white;
+}
